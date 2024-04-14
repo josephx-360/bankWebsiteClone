@@ -1,0 +1,50 @@
+.navigation{
+    background-color: black;
+    display: flex;
+    justify-content: end;
+    padding: 5px; 
+    position: fixed;
+    top: 0;   
+    width: 100%;
+    z-index: 999;
+}
+
+.button1{
+    background-color: black;
+    color: white;
+    font-size: 12px;
+    display: flex;
+    justify-content: space-around;
+    border: none;
+    font-weight: bold;
+    padding: 9px 9px;
+}
+
+.button1:hover{
+    background-color: #444444;
+    transition: 0.2s;
+}
+
+#header{
+    margin-top: 40px;
+    height: 100px;
+}
+
+.text1{
+    padding-top: 40px;
+    font-size: 13px;
+}
+
+
+#sfyb-text{
+    text-align: center;
+    padding-left: 30px;
+    font-size: 25px;
+  }
+  
+  #shaawch-text{
+    padding-left: 30px;
+    font-size: 35px;
+  }
+  
+
